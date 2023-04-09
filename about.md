@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-MD2 @ USYD.
+MD2 @ USYD. \\
 BSc (CompSc, NeuroSc) @ USYD.
 
 <!-- <figure>
