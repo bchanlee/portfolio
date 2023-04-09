@@ -23,6 +23,9 @@ icon: /assets/images/icon-512.png
 twitter_username: bchanlee
 github_username:  bchanlee
 
+hide_credits: true
+hide_search: true
+
 # Build settings
 markdown: kramdown
 
