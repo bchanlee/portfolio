@@ -36,7 +36,10 @@ layout: default
     
     <ul class="post-list">
       {% for post in paginator.posts %}
-        {% include post-list-item.html %}
+<!--         {% include post-list-item.html %} -->
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
       {% endfor %}
     </ul>
 
@@ -62,7 +65,10 @@ layout: default
 
     <ul class="post-list">
       {% for post in site.posts %}
-        {% include post-list-item.html %}
+<!--         {% include post-list-item.html %} -->
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
       {% endfor %}
     </ul>
   
