@@ -3,9 +3,7 @@ layout: post
 title: About
 ---
 
-MD2 @ USYD.
-
-BSc (CompSc, NeuroSc) @ USYD.
+Current double degree medical student at University of Sydney, and studied Computer Science and Neuroscience as an undergraduate student.
 
 <!-- <figure>
   <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
