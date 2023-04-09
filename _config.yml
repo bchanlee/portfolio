@@ -25,6 +25,7 @@ github_username:  bchanlee
 
 hide_credits: true
 hide_search: true
+date_format: "%B %Y"
 
 # Build settings
 markdown: kramdown
