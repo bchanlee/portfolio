@@ -24,7 +24,7 @@ twitter_username: bchanlee
 github_username:  bchanlee
 
 hide_credits: true
-hide_search: true
+# hide_search: true
 # show_excerpts: true
 # date_format: "%B %Y"
 
