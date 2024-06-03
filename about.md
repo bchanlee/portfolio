@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-I'm a postgraduate medical student at University of Sydney, and studied undergraduate Computer Science and Neuroscience as part of the Double Degree Medicine Program.
+I'm a medical student with a computer science background at University of Sydney.
 
 <!-- <figure>
   <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
