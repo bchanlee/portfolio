@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-I'm a medical student with a computer science background at University of Sydney.
+I'm a medical student with a computer science background.
 
 <!-- <figure>
   <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
