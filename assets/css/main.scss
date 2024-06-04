@@ -5,7 +5,8 @@
 
 $asset_url: '{{ '/assets' | absolute_url }}';
 
-@import 
+@import
+  "style",
   "reset",
   "variables",
   "syntax-highlighting",
