@@ -1,7 +1,8 @@
 // $brand-color:         #caf0fe;
 // $secondary-color:     #f2f7b7;
-$brand-color:         #F4F3F2;
-$secondary-color:     #FFFFFF;
+$purple-color:        #b509ac;
+$brand-color:         rgba($purple-color, 0.05);
+$secondary-color:     rgba($purple-color, 0.05);
 $highlight:           lighten($brand-color, 35%);
 $text-color:          #0b0404;
 $muted-text-color:    #64644B;
